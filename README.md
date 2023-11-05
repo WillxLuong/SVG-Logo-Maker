@@ -26,3 +26,7 @@ Run `npm test` to execute the tests for the shape classes.
 
 ## License
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+
+## Walkthrough
+
+[Demo](https://drive.google.com/file/d/1F98Z5y_NjQrbNAHXIy_PEVd3fB9h-GsP/view)
